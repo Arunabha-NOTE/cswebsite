@@ -5,11 +5,11 @@ module.exports = {
   ],
   theme: {
     extend: {
-      color: {
-        'primary' : '#44475a',
-        'secondary' : '#FFC72C',
-        // 'secondary' : '#E87722',
-        'Tertiary' : '#f8f8f2',
+      colors: {
+        'ieeegrey' : '#44475a',
+        'ieeeyellow' : '#FFC72C',
+        // 'ieeeyellow' : '#E87722',
+        'ieeewhite' : '#f8f8f2',
       }
     },
   },
