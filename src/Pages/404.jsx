@@ -1,11 +1,11 @@
 import React from 'react';
 
-const ImageGallery = () => {
+const FourZeroFour = () => {
     return (
         <div>
-
+            
         </div>
     );
 };
 
-export default ImageGallery;
+export default FourZeroFour;
