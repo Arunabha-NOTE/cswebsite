@@ -1,10 +1,10 @@
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import './App.css';
-import Home from "./Pages/Home";
-import About from "./Pages/About";
-import Event from "./Pages/Event";
-import ImageGallery from "./Pages/ImageGallery";
-import FourZeroFour from "./Pages/404";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Event from "./pages/Event";
+import ImageGallery from "./pages/ImageGallery";
+import FourZeroFour from "./pages/404";
 
 function App() {
     return (

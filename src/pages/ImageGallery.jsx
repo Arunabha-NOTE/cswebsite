@@ -6,6 +6,6 @@ const ImageGallery = () => {
 
         </div>
     );
-};
+};58
 
 export default ImageGallery;

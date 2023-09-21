@@ -1,6 +1,6 @@
 import React from 'react';
-import Navbar from "../Components/Navbar";
-import globalbg from "../Assets/HomePageVideo/chipdesign.png"
+import Navbar from "../components/Navbar";
+import GlobalBg from "../assets/homePageVideo/chipdesign.png"
 const Home = () => {
     return (
         <>
@@ -11,7 +11,7 @@ const Home = () => {
                             <Navbar />
                         </div>
                     </div>
-                    <div style={{backgroundImage: `url(${globalbg})`}} className='h-[90vh] lg:bg-fixed bg-cover bg-no-repeat'>
+                    <div style={{backgroundImage: `url(${GlobalBg})`}} className='h-[90vh] lg:bg-fixed bg-cover bg-no-repeat'>
                     </div>
                     <div className='mx-[5vw] lg:mx-[10vw]'>
 
